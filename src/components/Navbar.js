@@ -73,7 +73,7 @@ function NavBar() {
             <Nav.Item>
               <Nav.Link
                 as={Link}
-                to="/experiences"
+                to="/experiance"
                 onClick={() => updateExpanded(false)}
               >
                 <MdOutlineWorkHistory style={{ marginBottom: "2px" }} /> Work
